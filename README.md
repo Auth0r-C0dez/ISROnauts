@@ -217,24 +217,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <h3>🌟 Star this repository if you find it useful! 🌟</h3>
-  <p>Built with ❤️ by the ISROnauts team</p>
+  <p>Built with ##DEDICATON by the ISROnauts team</p>
 </div>
-## Acknowledgements
-
-We would like to express our sincere gratitude to the following organizations and tools that made this project possible:
-
-#### ISRO / IMD –
- for providing publicly available multi-spectral INSAT satellite imagery, which served as the core dataset for this research.
-#### Google Scholar/ScienceDirect – 
-for assistance in research
-#### Hugging Face – 
-for open-source libraries and model hosting, particularly diffusers, which inspired key parts of the pipeline.
-
-####PyTorch – 
-for providing the deep learning framework used to build and train the UNet3D and diffusion models.
-
-####video-diffusion-pytorch by lucidrains – 
-for the initial implementation of 3D diffusion, which was adapted and extended for satellite cloud forecasting.
-
-####Google Colab– 
-for offering accessible GPU compute resources for model training and prototyping.
