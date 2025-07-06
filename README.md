@@ -21,3 +21,9 @@ for the initial implementation of 3D diffusion, which was adapted and extended f
 
 #### Google Colab– 
 for offering accessible GPU compute resources for model training and prototyping.
+
+## Documentation
+
+
+* [Problem_Statement_Research](https://docs.google.com/document/d/1ApAUytsD5F1Xg8iK6qRE4qpp7UcMQNsKurnHZfPlruI/edit?tab=t.8490eq6wziav) - Exploring Ideas.
+* [Project Planning](https://docs.google.com/document/d/1ApAUytsD5F1Xg8iK6qRE4qpp7UcMQNsKurnHZfPlruI/edit?usp=sharing) - Executing Idea.
