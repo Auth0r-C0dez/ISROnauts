@@ -13,11 +13,11 @@ for assistance in research
 #### Hugging Face – 
 for open-source libraries and model hosting, particularly diffusers, which inspired key parts of the pipeline.
 
-####PyTorch – 
+#### PyTorch – 
 for providing the deep learning framework used to build and train the UNet3D and diffusion models.
 
-####video-diffusion-pytorch by lucidrains – 
+#### video-diffusion-pytorch by lucidrains – 
 for the initial implementation of 3D diffusion, which was adapted and extended for satellite cloud forecasting.
 
-####Google Colab– 
+#### Google Colab– 
 for offering accessible GPU compute resources for model training and prototyping.
