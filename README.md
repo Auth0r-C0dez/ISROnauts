@@ -217,5 +217,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <h3>🌟 Star this repository if you find it useful! 🌟</h3>
-  <p>Built with ##DEDICATON by the ISROnauts team</p>
+  <p>Built with HaRdWoRk by ISROnauts team</p>
 </div>
