@@ -10,6 +10,8 @@
 
 ## 🎯 Project Overview
 
+[Check out our idea](https://github.com/Auth0r-C0dez/ISROnauts/blob/main/Idea_Descriiption/ISROnauts.AI_idea_submission.pdf)
+
 ISROnauts represents a cutting-edge approach to weather forecasting, leveraging advanced deep learning techniques to predict cloud motion patterns from satellite imagery. Our project addresses the critical challenge of short-term weather prediction (0-3 hours) by developing a sophisticated diffusion-based model that outperforms traditional optical-flow and physics-based methods.
 
 ### 🔬 The Problem We Solve
